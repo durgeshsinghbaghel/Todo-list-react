@@ -1,0 +1,38 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+.input input{
+    /* background-color: red; */
+    width:450px;
+     font-size: 20px; 
+      padding: 4px;  
+    border-radius: 5px;
+    
+}
+.btn{
+    font-weight: bold;
+     font-size: 18px; 
+     
+    /* font-size: 2px; */
+}
+.btn-primary:hover{
+    background-color: coral;
+    border: 2px solid white;
+}
+
+.textbox{
+    /* background-color: red;  */
+    font-size: 20px;
+    /* background-color: red; */
+    /* color:black; */
+    font-weight: bold;
+    
+}
+
+ul{
+    list-style-type: none;
+}
